@@ -1,0 +1,19 @@
+body{
+		background-color: #BBFF00;
+		color: #DA45FF;
+		font-size: 125%;
+		font-family:"Comic Sans MS", cursive, sans-serif;
+}
+h1{
+		font-size: 150%;
+img {
+		display: block;
+		margin: 0 auto;
+		width: 200%
+		height: auto;
+		#s00btoitl {
+				margin: 0;
+		}
+		.sansNo {
+				color: limegreen;
+		}
